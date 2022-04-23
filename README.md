@@ -10,6 +10,9 @@ A website that offers fitness training services.
 ## Website
 https://tanyaleepr.github.io/run-buddy-website/
 
+![Screenshot 2022-03-26 142554](https://user-images.githubusercontent.com/92898110/164838869-f08370fa-c770-41a2-b4c7-fc8c29da509d.png)
+
+
 ## Contribution
 Made with <3 by Tanya Gonzalez
 
